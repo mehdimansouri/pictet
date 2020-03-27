@@ -1,0 +1,31 @@
+,Rank,Team,Median Resale Ticket Price,16oz. Beer,16oz. Soda,Hot Dog,Parking,Total Family Cost (TFC),TFC_dollar,TEAM
+0,1,Cleveland Cavaliers,$42.00,$9.33,$4.50,$5.50,$5.00,$222.67,222.67,Cavaliers
+1,2,Indiana Pacers,$55.00,$6.00,$3.25,$4.00,$8.00,$262.50,262.5,Pacers
+2,3,Dallas Mavericks,$52.00,$5.33,$4.00,$4.00,$20.00,$262.67,262.67,Mavericks
+3,4,Memphis Grizzlies,$55.00,$7.50,$3.20,$5.00,$15.00,$276.40,276.4,Grizzlies
+4,5,San Antonio Spurs,$59.00,$5.00,$2.50,$4.75,$8.00,$278.00,278.0,Spurs
+5,6,Denver Nuggets,$60.00,$4.17,$4.25,$4.50,$16.00,$290.83,290.83,Nuggets
+6,7,New Orleans Pelicans,$60.00,$5.60,$5.33,$4.00,$15.00,$292.87,292.87,Pelicans
+7,8,Milwaukee Bucks,$60.00,$6.50,$5.50,$4.00,$18.00,$298.00,298.0,Bucks
+8,9,Washington Wizards,$64.00,$5.33,$5.00,$5.50,$20.00,$318.67,318.67,Wizards
+9,10,Minnesota Timberwolves,$65.00,$9.33,$4.33,$5.50,$15.00,$324.33,324.33,Timberwolves
+10,11,Detroit Pistons,$74.00,$4.67,$2.80,$3.00,$10.00,$332.93,332.93,Pistons
+11,12,Utah Jazz,$76.00,$6.00,$2.55,$3.50,$10.00,$345.09,345.09,Jazz
+12,13,Sacramento Kings,$75.00,$5.60,$4.75,$4.00,$10.00,$346.70,346.7,Kings
+13,14,Philadelphia 76ers,$81.00,$10.33,$3.00,$4.50,$12.00,$380.67,380.67,76ers
+14,15,Charlotte Bobcats,$89.00,$6.50,$3.27,$4.50,$5.00,$398.55,398.55,Bobcats
+15,16,Boston Celtics,$85.00,$8.00,$4.57,$4.75,$34.00,$418.14,418.14,Celtics
+16,17,Phoenix Suns,$95.00,$6.00,$2.73,$3.00,$13.00,$422.45,422.45,Suns
+17,18,Orlando Magic,$95.00,$5.25,$3.50,$4.00,$10.00,$423.50,423.5,Magic
+18,19,Portland Trail Blazers,$92.00,$7.00,$5.00,$6.00,$13.00,$429.00,429.0,Blazers
+19,20,Golden State Warriors,$95.00,$6.00,$4.00,$5.75,$18.00,$441.00,441.0,Warriors
+20,21,Atlanta Hawks,$111.00,$7.00,$2.86,$4.75,$10.00,$492.71,492.71,Hawks
+21,22,Toronto Raptors,$110.00,$7.29,$4.99,$5.44,$19.44,$505.77,505.77,Raptors
+22,23,Houston Rockets,$120.00,$7.25,$3.09,$6.00,$15.00,$539.68,539.68,Rockets
+23,24,Brooklyn Nets,$127.00,$7.75,$4.00,$5.75,$17.00,$571.50,571.5,Nets
+24,25,Los Angeles Clippers,$130.00,$10.00,$3.60,$5.75,$15.00,$585.20,585.2,Clippers
+25,26,Miami Heat,$155.00,$5.33,$3.33,$6.00,$35.00,$696.33,696.33,Heat
+26,27,Oklahoma City Thunder,$170.00,$5.00,$3.75,$4.00,$5.00,$718.50,718.5,Thunder
+27,28,Chicago Bulls,$165.00,$7.50,$4.20,$5.75,$20.00,$726.40,726.4,Bulls
+28,29,Los Angeles Lakers,$180.00,$12.00,$3.60,$5.75,$15.00,$789.20,789.2,Lakers
+29,30,New York Knicks,$200.00,$9.00,$3.60,$5.75,$30.00,$878.20,878.2,Knicks
