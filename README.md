@@ -18,86 +18,66 @@ Therefore, to conduct a quantitative analysis, I will acquire data from various 
 - use the sales of a team’s tickets as a basic proxy to its profitability
 - Also use additional data to enhance the analysis as winning percentages
 
-## Getting Started
+## 3) Abstract
+This case study examined the effects of engagement with NBA teams’ Twitter pages on attendance, operating income, and twitter favorite / retweets number. Total number of tweets, likes, retweets, and user followers were
+calculated for each NBA team.
+Regression equations were run to analyze how the number of tweet likes and winning percentages with profitability income. Results indicated the average number of tweets likes had significantly correlate with 
+profitability incomes.
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+## 4) High level steps
+- 1) Raw data acquisition from various sources.
+- 2) Aggregating, structuring and building datasets 
+- 3) Designing, deploying and maintaining the full data processing pipeline
 
-### Prerequisites
+## 5) Data Sources
+![](pictures/data_sources.png)
+- Social Media (twitter and wikipedia):
+    - Engagement of the teams
+    - Sentiment analysis in real time
+    
+- NBA Attendance:
+    - http://www.espn.com/nba/attendance/_/year/2019
+    
+- NBA Ticket Price:
+    - https://www.nerdwallet.com/blog/which-nba-teams-most-affordable/#cleveland
+    - https://www.vividseats.com/nba-basketball/denver-nuggets-tickets/nuggets-3-18-3215516.html
+    - https://finance.yahoo.com/news/average-ticket-prices-nba-team-100000563.html
+    - https://teammarketing.com/fci/2017-nfl-fan-cost-index/
+    - https://blog.barrystickets.com/nba-ticket-prices/
+    
+- NBA Teams Winning Percentages:
+    - https://www.basketball-reference.com/teams/
 
-What things you need to install the software and how to install them
+# Getting Started
 
+These instructions will help you running this project on your local machine. After installing the prerequisites, follow the steps from the jupyter notebook in the root repository.
+
+## 1) Prerequisites
+
+The Python framework used for this project is "Anaconda 3". 
 ```
-Give examples
+wget https://repo.anaconda.com/archive/Anaconda3-2020.02-MacOSX-x86_64.sh
+bash ~/Downloads/Anaconda3-2020.02-MacOSX-x86_64.sh
 ```
+The following python libraries are required:
+- pandas
+- numpay
+- scrapy
+- matplotlib
+- seaborn
+- 
 
-### Installing
+## 2) Built With
 
-A step by step series of examples that tell you how to get a development env running
+* [python 3.7](https://www.anaconda.com/distribution/) - The web framework used Anaconda 3
+* [AWS](https://aws.amazon.com/) - S3, Lambda, Glue, Athena, quicksight -  for Data Pipeline Automation
+* [Cloudcraft] (https://app.cloudcraft.co/) - Data Pipeline Design
 
-Say what the step will be
+## 3) Authors
 
-```
-Give the example
-```
+* **Mehdi Mansouri**
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
+## 4) License
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
-
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
