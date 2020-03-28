@@ -24,12 +24,7 @@ calculated for each NBA team.
 Regression equations were run to analyze how the number of tweet likes and winning percentages with profitability income. Results indicated the average number of tweets likes had significantly correlate with 
 profitability incomes.
 
-## 4) High level steps
-- 1) Raw data acquisition from various sources.
-- 2) Aggregating, structuring and building datasets 
-- 3) Designing, deploying and maintaining the full data processing pipeline
-
-## 5) Data Sources
+## 4) Data Sources
 ![](pictures/data_sources.png)
 - Social Media (twitter and wikipedia):
     - Engagement of the teams
@@ -48,9 +43,15 @@ profitability incomes.
 - NBA Teams Winning Percentages:
     - https://www.basketball-reference.com/teams/
 
+## 5) High level steps
+- 1) Raw data acquisition from various sources.
+- 2) Aggregating, structuring and building datasets 
+- 3) Designing, deploying and maintaining the full data processing pipeline
+![](pictures/data_pipeline_design.jpg)
+
 # Getting Started
 
-These instructions will help you running this project on your local machine. After installing the prerequisites, follow the steps from the jupyter notebook in the root repository.
+These instructions will help you running this project on your local machine. After installing the prerequisites, follow the steps from the [jupyter notebook](https://github.com/mehdimansouri/pictet/blob/master/Popularity%20of%20NBA%20teams.ipynb).
 
 ## 1) Prerequisites
 
@@ -71,7 +72,7 @@ The following python libraries are required:
 
 * [python 3.7](https://www.anaconda.com/distribution/) - The web framework used Anaconda 3
 * [AWS](https://aws.amazon.com/) - S3, Lambda, Glue, Athena, quicksight -  for Data Pipeline Automation
-* [Cloudcraft] (https://app.cloudcraft.co/) - Data Pipeline Design
+* [Cloudcraft](https://app.cloudcraft.co/) - Data Pipeline Design
 
 ## 3) Authors
 
