@@ -28,7 +28,7 @@ profitability incomes.
 ![](pictures/data_sources.png)
 - Social Media (twitter and wikipedia):
     - Engagement of the teams: retrieve historical data using twitter API
-    - Sentiment analysis in real time: AWS end to end solution described in [CloudFormation](src/aws/)
+    - Sentiment analysis in real time: AWS end to end solution described in [CloudFormation](src/aws/twitter_real_time_streaming_cloudformation.yaml)
     
 - NBA Attendance:
     - http://www.espn.com/nba/attendance/_/year/2019
