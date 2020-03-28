@@ -60,13 +60,16 @@ The Python framework used for this project is "Anaconda 3".
 wget https://repo.anaconda.com/archive/Anaconda3-2020.02-MacOSX-x86_64.sh
 bash ~/Downloads/Anaconda3-2020.02-MacOSX-x86_64.sh
 ```
-The following python libraries are required:
+The requirement list of python libraries are:
 - pandas
 - numpay
 - scrapy
 - matplotlib
 - seaborn
-- 
+- tweepy
+- imageio
+- wordcloud
+- statsmodels
 
 ## 2) Built With
 
