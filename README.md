@@ -27,8 +27,8 @@ profitability incomes.
 ## 4) Data Sources
 ![](pictures/data_sources.png)
 - Social Media (twitter and wikipedia):
-    - Engagement of the teams
-    - Sentiment analysis in real time
+    - Engagement of the teams: retrieve historical data using twitter API
+    - Sentiment analysis in real time: AWS end to end solution described in [CloudFormation](src/aws/)
     
 - NBA Attendance:
     - http://www.espn.com/nba/attendance/_/year/2019
@@ -51,7 +51,7 @@ profitability incomes.
 
 # Getting Started
 
-These instructions will help you running this project on your local machine. After installing the prerequisites, follow the steps from the [jupyter notebook](https://github.com/mehdimansouri/pictet/blob/master/Popularity%20of%20NBA%20teams.ipynb).
+These instructions will help you running this project on your local machine. After installing the prerequisites, follow the steps from the [jupyter notebook](Popularity%20of%20NBA%20teams.ipynb).
 
 ## 1) Prerequisites
 
