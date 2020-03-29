@@ -47,7 +47,9 @@ profitability incomes.
 - 1) Raw data acquisition from various sources.
 - 2) Aggregating, structuring and building datasets 
 - 3) Designing, deploying and maintaining the full data processing pipeline
-![](pictures/data_pipeline_design.jpg)
+![](pictures/datapipeline_design.jpg)
+- 4) Twitter real time streaming pipeline
+![](pictures/twitter_real_time_streaming.jpg)
 
 # Getting Started
 
